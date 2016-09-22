@@ -2,12 +2,11 @@ body {
     background-color: AliceBlue;
 }
 
-fieldset {
-  border-style: none;
+.error {
+    color: Red;
 }
 
-
-
-legend {
-  margin-left: -1em;
+.password {
+    font-family: monospace;
+    font-size: large;
 }
